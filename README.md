@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Здравствуйте, я <a href="https://t.me/ivmax96" target="_blank">Максим Иванов</a>! 👋</h1>
 
-<!--
-**ivmax96/ivmax96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00B894&center=true&vCenter=true&width=435&lines=Начинающий+Go+разработчик;Постоянно+учусь+новому;Стремлюсь+в+бэкенд;Делюсь+знаниями" alt="typing animation" />
+</p>
 
-Here are some ideas to get you started:
+## 🚀 О себе
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я — начинающий Go-разработчик. Постоянно изучаю что-то новое. Стремлюсь создавать производительные бэкенд-приложения, которые выдержат любую нагрузку.
+
+## 🛠️ Мои навыки
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,postgres,docker,git,linux,redis,python,markdown,regex" />
+</p>
+
+## Stepik
+
+Я не только постоянно изучаю что-то новое, но и стремлюсь делиться полученными знаниями с другими. На платформе Stepik у меня есть несколько небольших курсов:
+
+- <a href="https://stepik.org/a/260772" target="_blank">Дженерики в Golang</a>
+- <a href="https://stepik.org/a/222599" target="_blank">Основы написания bash-скриптов</a>
+- <a href="https://stepik.org/a/181927" target="_blank">Мини-курс по регулярным выражениям</a>
+- <a href="https://stepik.org/a/181463" target="_blank">Мини-курс по Markdown</a>
+
+Все курсы сделаны с ❤️
