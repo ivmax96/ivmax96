@@ -1,4 +1,4 @@
-<h1 align="center">Здравствуйте, я <a href="https://t.me/ivmax96" target="_blank">Максим Иванов</a>! 👋</h1>
+<h1 align="center">Привет, я <a href="https://t.me/ivmax96" target="_blank">Максим Иванов</a>! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00B894&center=true&vCenter=true&width=435&lines=Начинающий+Go+разработчик;Постоянно+учусь+новому;Стремлюсь+в+бэкенд;Делюсь+знаниями" alt="typing animation" />
@@ -24,3 +24,7 @@
 - <a href="https://stepik.org/a/181463" target="_blank">Мини-курс по Markdown</a>
 
 Все курсы сделаны с ❤️
+
+---
+
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
