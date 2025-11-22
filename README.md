@@ -1,8 +1,8 @@
 <h1 align="center">Привет, я <a href="https://t.me/ivmax96" target="_blank">Максим Иванов</a>! 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00B894&center=true&vCenter=true&width=435&lines=Начинающий+Go+разработчик;Постоянно+учусь+новому;Стремлюсь+в+бэкенд;Делюсь+знаниями" alt="typing animation" />
-</p>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9+Go-%D1%80%D0%B0%D0%B7%D1%80%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE+%D1%83%D1%87%D1%83%D1%81%D1%8C+%D0%BD%D0%BE%D0%B2%D0%BE%D0%BC%D1%83;%D0%9B%D1%8E%D0%B1%D0%BB%D1%8E+%D0%B4%D0%B5%D0%BB%D0%B8%D1%82%D1%8C%D1%81%D1%8F+%D0%B7%D0%BD%D0%B0%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8+%D1%81+%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D0%BC%D0%B8" alt="Typing SVG" /></a>
+</div>
 
 ## 🚀 О себе
 
@@ -28,3 +28,4 @@
 ---
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
