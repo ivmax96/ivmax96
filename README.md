@@ -19,6 +19,7 @@
 Я не только постоянно изучаю что-то новое, но и стремлюсь делиться полученными знаниями с другими. На платформе Stepik у меня есть несколько небольших курсов:
 
 - <a href="https://stepik.org/a/260772" target="_blank">Дженерики в Golang</a>
+- <a href="https://stepik.org/a/249624" target="_blank">Введение в Dart с мини-проектами</a>
 - <a href="https://stepik.org/a/222599" target="_blank">Основы написания bash-скриптов</a>
 - <a href="https://stepik.org/a/181927" target="_blank">Мини-курс по регулярным выражениям</a>
 - <a href="https://stepik.org/a/181463" target="_blank">Мини-курс по Markdown</a>
